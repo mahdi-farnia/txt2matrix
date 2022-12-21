@@ -35,6 +35,7 @@
 		9F95FDCE2953354A00DFFD54 /* matrix.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = matrix.txt; sourceTree = "<group>"; };
 		9F95FDCF2953413500DFFD54 /* utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = utils.h; sourceTree = "<group>"; };
 		9F95FDD02953413500DFFD54 /* utils.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = utils.c; sourceTree = "<group>"; };
+		9F95FDD2295345F200DFFD54 /* Sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sample.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		9F95FDB3295334F600DFFD54 = {
 			isa = PBXGroup;
 			children = (
+				9F95FDD2295345F200DFFD54 /* Sample.png */,
 				9F95FDCE2953354A00DFFD54 /* matrix.txt */,
 				9F95FDBE295334F600DFFD54 /* txt2matrix */,
 				9F95FDBD295334F600DFFD54 /* Products */,
